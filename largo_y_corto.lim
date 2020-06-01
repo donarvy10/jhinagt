@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <axuda>Arrastra los objetos largos y cortos en los cuadrados</axuda>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="55" modo="1" >Documents.mp3</sonido>
+        <correcto son="Record_(online-voice-recorder.com).mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="export_ofoct.com.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>7</tipo>
+              <caixa1>LARGO</caixa1>
+              <caixa2>CORTO</caixa2>
+              <mini caixa="1">corbata.jpg</mini>
+              <mini caixa="1">TREN.jpg</mini>
+              <mini caixa="2">puente_corto.jpg</mini>
+              <mini caixa="2">nncorbata_corts.jpg</mini>
+              <mini caixa="2">tren_corto.jpg</mini>
+              <mini caixa="1">puente.jpg</mini>
+              <cfondo>1779C1</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="2" >
+              <tipo>7</tipo>
+              <pe>hola</pe>
+              <evalua  crt="Muy bien" icrt="Intentalo otra vez">1</evalua>
+              <caixa1>CORTO</caixa1>
+              <caixa2>LARGO</caixa2>
+              <mini caixa="2">correa_larga.jpg</mini>
+              <mini caixa="1">soga_corta.jpg</mini>
+              <mini caixa="2">pantalon_largo.png</mini>
+              <mini caixa="2">cuerda.jpg</mini>
+              <mini caixa="1">correa_corta.jpg</mini>
+              <mini caixa="1">ppantalon_corto.jpg</mini>
+              <cfondo>BAFC9E</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+    </libro>
+</lim>
